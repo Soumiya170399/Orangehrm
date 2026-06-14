@@ -4,6 +4,9 @@
 
 I chose the OrangeHRM application because it is a widely used Human Resource Management System with common web functionalities such as login, password reset, and employee management. It provides good scenarios for UI test automation.
 
+Application : OrangeHRM 
+URL : https://opensource-demo.orangehrmlive.com
+
 ## Framework and Language Used
 
 * Automation Framework: Robot Framework
