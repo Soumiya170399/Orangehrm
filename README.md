@@ -11,5 +11,5 @@ All automation scripts are placed inside the ui-tests/ folder.
 
 ## Application Used For Assessment
 
-Apllication : OrangeHRM
+Apllication : OrangeHRM and
 URL : https://opensource-demo.orangehrmlive.com
